@@ -3,3 +3,4 @@
 
 Para ejecutar el sistema, desbes poner:
 ```app install react```
+<h2>Sistema de registro 2</h2>
